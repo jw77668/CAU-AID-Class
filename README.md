@@ -59,6 +59,6 @@ Predicted Label:  Versicolor
 ## License
 This project is licensed under the [MIT License]().
 
-##Author
+## Author
 Developed by [이재우](jeawoo77668@gmail.com)
 
